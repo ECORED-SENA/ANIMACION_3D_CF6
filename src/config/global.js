@@ -44,7 +44,8 @@ export default {
         nombreRuta: 'tema4',
         icono: 'far fa-file-alt',
         numero: '4',
-        titulo: 'Fundamentación Textil',
+        titulo:
+          'Preparación para texturizado: UV Unwrap, preparación de mallas para baking de textura',
         desarrolloContenidos: true,
       },
     ],
