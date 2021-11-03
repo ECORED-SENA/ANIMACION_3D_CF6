@@ -101,7 +101,7 @@
                   h4.mt-1 “Editor UV”
 
                 .col-sm-auto
-                  a.boton.color-acento-botones(href="https://docs.blender.org/manual/es/2.93/editors/uv/selecting.html" target="_blank")
+                  a.boton.color-acento-botones.beat(href="https://docs.blender.org/manual/es/2.93/editors/uv/selecting.html" target="_blank")
                     span.d-black Dar click para ir al lugar
                     i.d-black.fas.fa-external-link-alt 
 </template>

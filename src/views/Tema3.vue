@@ -47,7 +47,7 @@
                   h4.mt-1 Loop Cut – Blender 2.80 Fundamentals
 
                 .col-sm-auto
-                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=-pCf3DjsEBg&list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6&index=17&ab_channel=Blender" target="_blank")
+                  a.boton.color-acento-botones.beat(href="https://www.youtube.com/watch?v=-pCf3DjsEBg&list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6&index=17&ab_channel=Blender" target="_blank")
                     span.d-black Dar click para ir al lugar
                     i.d-black.fas.fa-external-link-alt            
 
@@ -89,7 +89,7 @@
                   h4.mt-1 Retopología en Blender
 
                 .col-sm-auto
-                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=IBmIm9iqmGI&ab_channel=MMasterbrock" target="_blank")
+                  a.boton.color-acento-botones.beat(href="https://www.youtube.com/watch?v=IBmIm9iqmGI&ab_channel=MMasterbrock" target="_blank")
                     span.d-black Dar click para ir al lugar
                     i.d-black.fas.fa-external-link-alt 
 
