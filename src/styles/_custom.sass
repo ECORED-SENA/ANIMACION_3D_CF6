@@ -1,0 +1,263 @@
+.banner-principal__img
+  animation-name: spin
+  animation-duration: 10.0s
+  animation-iteration-count: infinite
+  -o-animation-direction: alternate
+
+@keyframes spin
+  0%
+    transform: rotate(0deg) 
+    transform: translatey(0px)
+    transform: translatex(0px)           
+  25%
+    transform: rotate(1deg)
+  50%
+    transform: rotate(0deg)
+    transform: translatex(16px)           
+  60%
+    transform: translatey(16px)    
+  75%
+    transform: rotate(1deg)
+    transform: translatex(-16px)   
+  100%
+    transform: rotate(0deg)
+    transform: translatey(0px)
+    transform: translatex(0px)   
+
+.img-a 
+  display: block
+  margin: auto
+
+.img-t
+  width: auto
+  height: auto    
+
+.BorTit
+  border-left: 5px solid #D44F4A
+  padding: 6px 0px 6px 10px   
+
+.list 
+  width: 100%
+  display: flex !important
+  &__item 
+    &__bulletNumber 
+      position: relative
+      width: 30px
+      height: 30px
+      margin-right: 1rem
+      text-align: center
+      border-radius: 50%
+      background-color: #339CE9
+      span 
+        color: white
+        font-weight: bold
+        font-size: 20px 
+        position: absolute
+        top: 50%
+        left: 50%
+        transform: translate(-50%, -50%)
+      
+    
+    &__number 
+      position: relative
+      margin-right: 0.5rem
+      span 
+        color:#BF3976
+        font-size: 13pt
+        font-weight: 700
+        line-height: 1.2
+      
+    
+    &__icon 
+      position: relative
+      width: 20px
+      margin-right: 0.65rem
+      margin-top: 4px
+      img 
+        width: 20px
+        vertical-align: middle
+        
+  &__txt 
+    p:first-child,
+    h4:first-child 
+      margin-top: 7px    
+
+.col-color-1
+  background: linear-gradient(260deg, rgba(255,255,255,1) 0%, rgba(239,223,201,1) 0%, rgba(232,237,217,1) 100%)
+
+.col-color-2
+  background-color: lighten(#D44F4A,37% )
+
+.table-color-1
+  background-color: #E8E8E8 !important
+  border: 1px solid #E1E1E1 !important 
+
+.table-color-2
+  background-color: lighten(#6BBCB1,29% ) !important
+  border: 1px solid #E1E1E1 !important   
+
+.table-color-3
+  background-color: lighten(#D44F4A,34% ) !important
+  border: 1px solid #E1E1E1 !important     
+
+.table-color-4
+  background-color: lighten(#4A78D4,33% ) !important
+  border: 1px solid #E1E1E1  !important     
+
+.table  
+  table-layout: auto !important
+
+.beat
+  animation: beat 2.0s
+  animation-iteration-count: infinite
+
+@keyframes beat 
+  0%  
+    transform: scale(1.0)
+  10%  
+    transform: scale(1.01)
+  20%  
+    transform: scale(1.02)
+  30%  
+    transform: scale(1.01)
+  40%  
+    transform: scale(1.02)
+  50%  
+    scale: (1.0)
+  60%  
+    scale: scale(1.01)
+  70%  
+    scale: scale(1.02)
+  80%  
+    scale: scale(1.01)
+  90%  
+    scale: scale(1.02)  
+
+.tabs-a.color-primario .tabs-a__tab:hover
+  color: white !important
+  font-weight: bold !important
+.tabs-a.color-primario .tabs-a__tab__selected
+  color: white !important
+  font-weight: bold !important
+.tarjeta.color-primario--borde
+  border: solid 4px lighten(#D44F4A,37% )!important       
+  background-color: lighten(#D44F4A,37% ) !important
+
+.slide-bg-1  
+  background-color: lighten(#D44F4A,37% ) !important  
+
+.slide-bg-2
+  background-color: transparent !important
+
+.slide-bg-3
+  background: linear-gradient(180deg, #F1E2CF41 0%, #f1e2cf13 100%)
+
+.slyder-a__tipo-a .slyder-a__btn--atrs
+  left: -40px !important
+.slyder-a__tipo-a .slyder-a__btn--sigt
+  right: -40px !important
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  background-color: #D44F4A !important
+  border: 1px solid #D44F4A !important
+
+.slyder-a__tipo-a .slyder-a__bullets
+  bottom: -35px !important
+
+.slyder-a__bullets__item  
+  background-color: #D44F4A !important
+  border: 1px solid #D44F4A !important
+  border-radius: 0px !important
+  height: 3px !important 
+  width: 20px !important
+
+.bg-img-1
+  background-image: url(../assets/ilustraciones/img8.svg)
+  background-repeat: no-repeat
+  background-size: cover
+  background-position: center   
+
+.bg-img-2
+  background-image: url(../assets/ilustraciones/img38.svg)
+  background-repeat: no-repeat
+  background-size: cover
+  background-position: center    
+
+.shake
+  animation: shake 6.5s
+  animation-iteration-count: infinite
+
+@keyframes shake 
+  0% 
+    transform: translate(1px, 1px) rotate(-1deg)
+  10%  
+    transform: translate(-1px, -2px) rotate(0deg)
+  20% 
+    transform: translate(-3px, 0px) rotate(1deg)
+  30% 
+    transform: translate(3px, 0px) rotate(-1deg)
+  40% 
+    transform: translate(1px, -2px) rotate(0deg)
+  50%  
+    transform: translate(-1px, 1px) rotate(-1deg)
+  60% 
+    transform: translate(1px, -2px) rotate(0deg)
+  70%  
+    transform: translate(-3px, 0px) rotate(-1deg)
+  80%
+    transform: translate(3px, 0px) rotate(0deg)
+  90%  
+    transform: translate(1px, -2px) rotate(-1deg)
+  100%  
+    transform: translate(1px, 1px) rotate(0deg)   
+
+.swing
+  animation-name: swing
+  animation-duration: 3.0s
+  animation-iteration-count: infinite
+  -o-animation-direction: alternate
+
+@keyframes swing
+  0%
+    transform: translatex(0px)    
+  50%
+    transform: translatex(-10px)
+  100%
+    transform: translatex(0px)
+
+.yoyo
+  animation-name: yoyo
+  animation-duration: 3.0s
+  animation-iteration-count: infinite
+  -o-animation-direction: alternate
+
+@keyframes yoyo
+  0%
+    transform: translatey(0px)    
+  50%
+    transform: translatey(-10px)
+  100%
+    transform: translatey(0px)    
+
+.hr-t 
+  border: 1px solid #D44F4A   
+
+.tarjeta-flip.color-secundario .tarjeta-flip__img
+  background-color: white !important  
+
+.linea-tiempo-d.color-primario .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
+  color: white !important
+  font-weight: bold !important  
+
+.bg-card-row-color
+  background-color: #FFC600   
+
+.tarjeta.color-acento-contenido  
+  background: linear-gradient(180deg, rgba(238,149,146,1) 0%, rgba(212,79,74,1) 100%) !important   
+
+.d-black
+  color: #12263F !important   
+
+.color-t4-1
+  background-color: #E4C7A13D 
+  border: 3px solid white
+  border-radius: 15px 
