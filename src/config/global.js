@@ -219,24 +219,24 @@ export default {
       },
       {
         nombre: 'Johnier Felipe Perafan',
-        cargo: 'Experto Temático',
+        cargo: 'Experto temático',
         centro:
           'Centro de Servicios y Gestión Empresarial - Regional Antioquia',
       },
       {
         nombre: 'Fabián Andrés Gómez Pico',
-        cargo: 'Experto Temático',
+        cargo: 'Experto temático',
         centro:
           'Centro de Servicios y Gestión Empresarial - Regional Antioquia.',
       },
       {
         nombre: 'Maryuri Agudelo Franco',
-        cargo: 'Diseño Instruccional',
+        cargo: 'Diseño instruccional',
         centro: 'Centro de Diseño y Metrología – Regional Distrito Capital.',
       },
       {
         nombre: 'Andrés Felipe Velandia Espitia',
-        cargo: 'Revisor Metodológico y Pedagógico',
+        cargo: 'Revisor metodológico y pedagógico',
         centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
       },
       {
@@ -277,7 +277,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Yuli Marcela Gómez Tarazona',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',

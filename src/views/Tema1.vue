@@ -21,29 +21,29 @@
       table.table 
         thead      
           tr
-            td.table-color-1 Clic izquierdo 
-            td.table-color-1 Selecciona los elementos de Blender. 
+            td.table-color-1.p-4 Clic izquierdo 
+            td.table-color-1.p-4 Selecciona los elementos de Blender. 
           tr
-            td.table-color-1 Clic derecho 
-            td.table-color-1 Despliega el menú contextual. 
+            td.table-color-1.p-4 Clic derecho 
+            td.table-color-1.p-4 Despliega el menú contextual. 
           tr
-            td.table-color-1 Botón medio 
-            td.table-color-1 Al girarlo podremos hacer zoom in - zoom out, al presionarlo y mantenerlo, podremos girar la vista en torno al objeto. 
+            td.table-color-1.p-4 Botón medio 
+            td.table-color-1.p-4 Al girarlo podremos hacer zoom in - zoom out, al presionarlo y mantenerlo, podremos girar la vista en torno al objeto. 
           tr
-            td.table-color-2 Alt + botón del medio presionado 
-            td.table-color-2 Cambia las vistas en el escenario (frontal, top, lateral). 
+            td.table-color-2.p-4 Alt + botón del medio presionado 
+            td.table-color-2.p-4 Cambia las vistas en el escenario (frontal, top, lateral). 
           tr
-            td.table-color-3 Shift+clic derecho
-            td.table-color-3 Posiciona el cursor 3D donde hacemos el clic.
+            td.table-color-3.p-4 Shift+clic derecho
+            td.table-color-3.p-4 Posiciona el cursor 3D donde hacemos el clic.
           tr
-            td.table-color-4 Alt+clic izquierdo 
-            td.table-color-4 Selección con rectángulo.
+            td.table-color-4.p-4 Alt+clic izquierdo 
+            td.table-color-4.p-4 Selección con rectángulo.
           tr
-            td.table-color-4 Alt+clic izquierdo
-            td.table-color-4 Selección libre.
+            td.table-color-4.p-4 Alt+clic izquierdo
+            td.table-color-4.p-4 Selección libre.
           tr
-            td.table-color-4 Alt+botón medio 
-            td.table-color-4 Selección libre.
+            td.table-color-4.p-4 Alt+botón medio 
+            td.table-color-4.p-4 Selección libre.
     .row.justify-content-center.align-items-center
       .col-lg-10(data-aos="slide-left")
         .tarjeta.color-primario.p-3.mt-5

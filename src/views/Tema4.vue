@@ -7,9 +7,8 @@
         span 4
       h1 Preparación para texturizado: UV Unwrap, preparación de mallas para baking de textura
     .row.justify-content-center.align-items-center
-      .col-lg-12.bg-img-1.p-5
+      .col-lg-12.bg-img-1.p-5.pb-0
         img.img-a.img-t.my-5.yoyo(data-aos="zoom-in-down")(src='@/assets/ilustraciones/img40.svg', alt='')
-        p(data-aos="fade-down") Este método es más técnico, puesto que se necesitan medidas exactas, formas controladas y vértices muy bien alineadas, ya que se trabaja generalmente con planos y superficies lisas que deben conservar su forma, por ello tiene mayores restricciones al movernos en el espacio del modelo puesto que si se mueve uno de los vértices se corre el riesgo de que se deforme o se rompa la malla; aquí la topología y las subdivisiones son muy importantes a la hora de definir formas, esquinas y suavizar bordes dándole al modelado mayor realismo. Por estas razones, el #[i hard surface] se trabaja mejor en #[i softwares] industriales como #[i CADs, el solidworks, 3Dmax, inspiration], entre otros, pues permite trabajar con curvas, superficies y datos booleanos, ya que cuentan con herramientas más sofisticadas para trabajar con medidas exactas.
 
         p(data-aos="fade-down") Es una técnica que consiste en cortar un modelo 3D en piezas que se aplanan para obtener patrones o proyecciones planas. Se puede comparar con el proceso inverso de elaborar un peluche; es decir, en vez de unir todas sus piezas para armarlo, lo que debemos hacer es cortarlo con mucho cuidado para obtener cada una de las piezas que lo conforman. Para ello, se hace uso de los UV, los cuales representan el modelo 3D aplanado en un espacio 2D (como en el ejemplo del peluche que pasa de ser un modelo tridimensional a un modelo bidimensional) en donde existe un sistema de coordenadas que se hacen coincidir con la geometría del modelo. Siendo así, a continuación, podrá visualizar el proceso UV:
 
