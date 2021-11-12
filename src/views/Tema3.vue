@@ -20,7 +20,7 @@
         p(data-aos="fade-down").pt-5.mt-4 A continuación, se relaciona el desarrollo de los temas principales para el correcto modelado orgánico teniendo en cuenta la topología y su correcta modificación, el cual se encuentra en el documento adjunto para descarga: 
         .row.justify-content-center.align-items-center.mt-5.pb-5(data-aos="fade-down")       
           .col-lg-8         
-            a.mb-3.anexo.bg-a-1(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank" type="application/pdf")
+            a.mb-3.anexo.bg-a-1(:href="obtenerLink('/downloads/Modelado_organico.pdf')" target="_blank" type="application/pdf")
               .anexo__icono
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto

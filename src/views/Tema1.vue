@@ -53,7 +53,7 @@
                 .col.mb-3.mb-sm-0.text-white
                   h5.mb-0 Atendiendo al reconocimiento del mouse para un efectivo uso del <i>software</i> Blender, a continuación, se encuentra un documento que tendrá las indicaciones de cómo instalarlo; así mismo, permite conocer las diferentes interfaces y ventanas directamente en el <i>software</i>, el cual se encuentra en el documento adjunto para descarga:
                 .col-sm-auto
-                  a.boton.color-acento-contenido.beat(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-acento-contenido.beat(:href="obtenerLink('/downloads/Introduccion_a_blender_y su_interfaz.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 
