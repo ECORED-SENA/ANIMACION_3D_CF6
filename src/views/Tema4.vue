@@ -85,7 +85,7 @@
     p(data-aos="fade-down").mt-5 Estimado Aprendiz, con este tema, es el final del componente formativo Modelado 3D, es así, que para afianzar la temática de UV <i>Layout</i>, se le recomienda visualizar el siguiente video:
     figure.mt-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/AiMB6zpM_9U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
     p(data-aos="fade-down").mt-5 Por último, recuerda que es necesario conocer y afianzar el uso de las herramientas que se pueden encontrar en Blender, de esta manera es necesario reconocer sus funciones; para ello, puede visitar la página Editor UV Blender, relacionada a continuación:
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-10(data-aos="zoom-in-down")     

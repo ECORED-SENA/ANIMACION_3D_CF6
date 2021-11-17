@@ -62,17 +62,17 @@
           .col-lg-12
             figure.mt-3
               .video
-                iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)        
+                iframe(width="560" height="315" src="https://www.youtube.com/embed/xe3SnCoEt4k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)        
         .row.justify-content-center.align-items-center(numero="2" titulo="Ver Video 5 Modelado de Rostro Parte 2")
           .col-lg-12
             figure.mt-3
               .video
-                iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)     
+                iframe(width="560" height="315" src="https://www.youtube.com/embed/lRDV58OyaNg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)     
         .row.justify-content-center.align-items-center(numero="3" titulo="Ver Video 6 Modelado de Cuerpo")
           .col-lg-12
             figure.mt-3
               .video
-                iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)    
+                iframe(width="560" height="315" src="https://www.youtube.com/embed/JAay1WWdSnY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)    
 
     h4(data-aos="fade-left").mt-5 Retopología
     p(data-aos="fade-down") En animación 3D el término retopología se refiere a la construcción de modelos de bajo poligonaje a partir de modelos de alto poligonaje. Es el método que más ha ganado uso en los últimos años desplazando a los métodos como el box modeling. Se hace necesario puesto que los computadores se sobrecargan de muchos cálculos y entorpecen el flujo de trabajo, lo que genera problemas al texturizar, riggear y animar. 
@@ -98,7 +98,7 @@
       .col-lg-10(data-aos="zoom-in-down")      
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)                         
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/MwOTNxcAZ3A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)                         
 </template>
 
 <script>
