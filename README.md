@@ -1,6 +1,6 @@
-# **sena-base-2021 v5.0.0**
+# **Modelado 3D**
 
-## **https://ecored-sena.github.io/ANIMACION_3D_CF6/**
+## **Enlace GitHubPages**
 
 [https://ecored-sena.github.io/ANIMACION_3D_CF6/](https://ecored-sena.github.io/ANIMACION_3D_CF6/)
 

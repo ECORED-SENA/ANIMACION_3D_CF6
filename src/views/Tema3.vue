@@ -10,7 +10,7 @@
     .row.justify-content-center.align-items-center
       .col-lg-12.bg-img-2.p-5
         p(data-aos="fade-down") En la actualidad, el avance en la industria de los videojuegos y el cine, se ha vuelto cada vez más exigente, así como también realista, por ende, el desarrollo del modelado orgánico toma cada vez más fuerza. 
-        p(data-aos="fade-down") El modelado orgánico, permite crear personajes y elementos hechos por el <i>concept</i> artist, plasmando dichos diseños en un entorno tridimensional. Básicamente se podría decir que, con el modelado orgánico, busca asemejar los objetos creados en el entorno tridimensional, a los elementos que se encuentran en la naturaleza.  
+        p(data-aos="fade-down") El modelado orgánico, permite crear personajes y elementos hechos por el <i>concept artist</i>, plasmando dichos diseños en un entorno tridimensional. Básicamente se podría decir que, con el modelado orgánico, busca asemejar los objetos creados en el entorno tridimensional, a los elementos que se encuentran en la naturaleza.  
         img.img-a.img-t.my-5.yoyo(data-aos="zoom-in-down")(src='@/assets/ilustraciones/img37.svg', alt='')               
 
     .row.justify-content-center.align-items-stretch.mt-5(data-aos="fade-down")       
@@ -30,10 +30,10 @@
 
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-10 
-        p(data-aos="fade-down") Luego de haber revisado el documento en PDF “Modelado Orgánico”, es importante visualizar los siguientes videos, los cuales, permiten reafirmar elementos y uso de herramientas del <i>software</i> Blender, siendo importantes para algunos de los modelados necesarios para el desarrollo del modelado orgánico.  
+        p(data-aos="fade-down") Luego de haber revisado el documento en PDF “Modelado Orgánico”, es importante visualizar los siguientes videos, los cuales, permiten reafirmar elementos y uso de herramientas del #[i software Blender], siendo importantes para algunos de los modelados necesarios para el desarrollo del modelado orgánico.  
 
     h4(data-aos="fade-left").mt-5 Modelado de referencia
-    p(data-aos="fade-down") En este apartado se presenta un enlace al canal oficial de Blender en YouTube, donde podrán visualizar más sobre loop cut, lo que permite dar un mejor uso a este <i>software</i>, aportando a la forma práctica del tema:
+    p(data-aos="fade-down") En este apartado se presenta un enlace al canal oficial de #[i Blender] en YouTube, donde podrán visualizar más sobre loop cut, lo que permite dar un mejor uso a este #[i software], aportando a la forma práctica del tema:
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-10(data-aos="zoom-in-down")     
         .tarjeta.color-acento-contenido.p-3
@@ -44,7 +44,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0.text-white
                   p.text-small Estimado aprendiz, para profundizar sobre el tema puede consultar el siguiente video.
-                  h4.mt-1 Loop Cut – Blender 2.80 Fundamentals
+                  h4.mt-1 #[i Loop Cut] – #[i Blender] 2.80 #[i Fundamentals]
 
                 .col-sm-auto
                   a.boton.color-acento-botones.beat(href="https://www.youtube.com/watch?v=-pCf3DjsEBg&list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6&index=17&ab_channel=Blender" target="_blank")
@@ -52,7 +52,7 @@
                     i.d-black.fas.fa-external-link-alt            
 
     h4(data-aos="fade-left").mt-5 Modelado del cuerpo
-    p(data-aos="fade-down") De igual manera, que, en el modelado de rostro, el cuerpo en los personajes sigue unas pautas que debemos respetar, para que, al animar las partes, estas se deformen correctamente, tanto para las extremidades como para el tronco lo ideales generar loops específicos. A continuación, veremos los loops necesarios para el correcto modelado: 
+    p(data-aos="fade-down") De igual manera, que, en el modelado de rostro, el cuerpo en los personajes sigue unas pautas que debemos respetar, para que, al animar las partes, estas se deformen correctamente, tanto para las extremidades como para el tronco lo ideal es generar #[i loops] específicos. A continuación, veremos los #[i loops] necesarios para el correcto modelado: 
 
     p(data-aos="fade-down") En los videos relacionados a continuación, podrá ver el paso a paso del correcto modelado del rostro para animación 3D utilizando una adecuada topología. 
 
@@ -75,7 +75,7 @@
                 iframe(width="560" height="315" src="https://www.youtube.com/embed/JAay1WWdSnY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)    
 
     h4(data-aos="fade-left").mt-5 Retopología
-    p(data-aos="fade-down") En animación 3D el término retopología se refiere a la construcción de modelos de bajo poligonaje a partir de modelos de alto poligonaje. Es el método que más ha ganado uso en los últimos años desplazando a los métodos como el box modeling. Se hace necesario puesto que los computadores se sobrecargan de muchos cálculos y entorpecen el flujo de trabajo, lo que genera problemas al texturizar, riggear y animar. 
+    p(data-aos="fade-down") En animación 3D el término retopología se refiere a la construcción de modelos de bajo poligonaje a partir de modelos de alto poligonaje. Es el método que más ha ganado uso en los últimos años desplazando a los métodos como el #[i box modeling]. Se hace necesario puesto que los computadores se sobrecargan de muchos cálculos y entorpecen el flujo de trabajo, lo que genera problemas al texturizar, #[i riggear] y animar. 
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-10(data-aos="zoom-in-down")     
         .tarjeta.color-acento-contenido.p-3
@@ -86,14 +86,14 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0.text-white
                   p.text-small Estimado aprendiz, para profundizar sobre el tema puede consultar el siguiente video.
-                  h4.mt-1 Retopología en Blender
+                  h4.mt-1 Retopología en #[i Blender]
 
                 .col-sm-auto
                   a.boton.color-acento-botones.beat(href="https://www.youtube.com/watch?v=IBmIm9iqmGI&ab_channel=MMasterbrock" target="_blank")
                     span.d-black Dar click para ir al lugar
                     i.d-black.fas.fa-external-link-alt 
 
-    p(data-aos="fade-down").mt-5 A continuación, veremos el video de cómo se realiza retopología en blender: 
+    p(data-aos="fade-down").mt-5 A continuación, veremos el video de cómo se realiza retopología en #[i blender]: 
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-10(data-aos="zoom-in-down")      
         figure

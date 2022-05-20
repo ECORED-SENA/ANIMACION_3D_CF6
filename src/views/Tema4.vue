@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido(data-aos="fade-left")
       .titulo-principal__numero
         span 4
-      h1 Preparación para texturizado: UV Unwrap, preparación de mallas para baking de textura
+      h1 Preparación para texturizado: UV #[i Unwrap], preparación de mallas para #[i baking] de textura
     .row.justify-content-center.align-items-center
       .col-lg-12.bg-img-1.p-5.pb-0
         img.img-a.img-t.my-5.yoyo(data-aos="zoom-in-down")(src='@/assets/ilustraciones/img40.svg', alt='')
@@ -78,15 +78,14 @@
                   .col-5
                     h4(data-aos="fade-right") Preparación para texturizado Caja UV
                     .hr-t
+                  .col-12
                     p.mt-4 El ejemplo mas sencillo del UV mapping es el de una caja, el cual se abre en forma de cruz, este al volverse a plegar forma el objeto 3D, en resumen, el objeto 3D esta elaborado en tres coordenadas, X, Y y Z, estas coordenadas se convierten a un escenario 2D: en X y Y.
                 img.img-a.img-t.mt-4(src='@/assets/ilustraciones/img47.jpg', alt='')
-                figcaption.mt-3 https://cdnb.artstation.com/p/assets/images/images/022/142/571/large/cagatay-demir-repair-stop-10.jpg?1574265832                      
-
     p(data-aos="fade-down").mt-5 Estimado Aprendiz, con este tema, es el final del componente formativo Modelado 3D, es así, que para afianzar la temática de UV <i>Layout</i>, se le recomienda visualizar el siguiente video:
     figure.mt-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/AiMB6zpM_9U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
-    p(data-aos="fade-down").mt-5 Por último, recuerda que es necesario conocer y afianzar el uso de las herramientas que se pueden encontrar en Blender, de esta manera es necesario reconocer sus funciones; para ello, puede visitar la página Editor UV Blender, relacionada a continuación:
+    p(data-aos="fade-down").mt-5 Por último, recuerda que es necesario conocer y afianzar el uso de las herramientas que se pueden encontrar en #[i Blender], de esta manera es necesario reconocer sus funciones; para ello, puede visitar la página Editor UV #[i Blender], relacionada a continuación:
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-10(data-aos="zoom-in-down")     
         .tarjeta.color-acento-contenido.p-3
